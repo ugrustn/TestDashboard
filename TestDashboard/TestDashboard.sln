@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDashboard.API", "src\TestDashboard.API\TestDashboard.API.csproj", "{1234A123-1234-1234-1234-123456789ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDashboard.Domain", "src\TestDashboard.Domain\TestDashboard.Domain.csproj", "{2345B234-2345-2345-2345-123456789ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDashboard.Data", "src\TestDashboard.Data\TestDashboard.Data.csproj", "{3456C345-3456-3456-3456-123456789ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1234A123-1234-1234-1234-123456789ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1234A123-1234-1234-1234-123456789ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1234A123-1234-1234-1234-123456789ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1234A123-1234-1234-1234-123456789ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2345B234-2345-2345-2345-123456789ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2345B234-2345-2345-2345-123456789ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2345B234-2345-2345-2345-123456789ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2345B234-2345-2345-2345-123456789ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3456C345-3456-3456-3456-123456789ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3456C345-3456-3456-3456-123456789ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3456C345-3456-3456-3456-123456789ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3456C345-3456-3456-3456-123456789ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal 
